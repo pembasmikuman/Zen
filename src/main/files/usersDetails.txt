@@ -1,0 +1,4 @@
+username,income,expenses,groceries,utilities,entertainment
+mutsanna_zulkefle,109.9,0.1,100.0,99.9,100.0
+Aiman,7700.0,0,0,0,0
+1,0,0,1000.0,600.0,1.0

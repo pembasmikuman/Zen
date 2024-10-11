@@ -1,0 +1,3 @@
+0,mutsanna_zulkefle,Income,100.0,2024-06-14,Elaun bulanan, -
+1,mutsanna_zulkefle,Expenses,0.1,2024-06-21,yuran pekerja,Utilities
+2,mutsanna_zulkefle,Income,10.0,2024-05-27,12, -

@@ -1,0 +1,73 @@
+.backButton-style {
+    -fx-background-color: #d59f0f;
+    -fx-background-radius: 3;
+    -fx-text-fill: WHITE;
+    -fx-font-size: 12px;
+    -fx-font-family: Inter;
+    -fx-font-weight: BOLD;
+}
+
+.backButton-style:hover {
+    -fx-background-color: #8f6c0a;
+    -fx-cursor: hand;
+}
+
+.backButton-style:pressed {
+    -fx-background-color: #8f6c0a;
+    -fx-cursor: hand;
+}
+
+.saveButton-style {
+    -fx-background-color: #d59f0f;
+    -fx-background-radius: 3;
+    -fx-text-fill: WHITE;
+    -fx-font-size: 12px;
+    -fx-font-family: Inter;
+    -fx-font-weight: BOLD;
+}
+
+.saveButton-style:hover {
+    -fx-background-color: #8f6c0a;
+    -fx-cursor: hand;
+}
+
+.saveButton-style:pressed {
+    -fx-background-color: #8f6c0a;
+    -fx-cursor: hand;
+}
+
+.editButton-style {
+    -fx-background-color: #d59f0f;
+    -fx-background-radius: 3;
+    -fx-text-fill: WHITE;
+    -fx-font-size: 12px;
+    -fx-font-family: Inter;
+    -fx-font-weight: BOLD;
+}
+
+.editButton-style:hover {
+    -fx-background-color: #8f6c0a;
+    -fx-cursor: hand;
+}
+
+.editButton-style:pressed {
+    -fx-background-color: #8f6c0a;
+    fx-cursor: hand;
+}
+
+.tableView {
+    -fx-background-color: #00928f;
+    -fx-text-fill: WHITE;
+    -fx-font-family: 'Ubuntu Sans Medium';
+    -fx-font-size: 15;
+    -fx-table-cell-color: #00928f;
+    -fx-table-cell-border-color: black;
+}
+
+.column {
+    -fx-background-color: #008f8aba;
+    -fx-text-fill: black;
+    -fx-font-family: 'Ubuntu Sans Medium';
+    -fx-font-size: 15;
+    -fx-table-cell-border-color: black;
+}

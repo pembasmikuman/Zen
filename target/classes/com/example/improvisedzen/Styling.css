@@ -1,0 +1,39 @@
+.submitButton-style {
+    -fx-background-color: #d59f0f;
+    -fx-background-radius: 12;
+    -fx-text-fill: WHITE;
+    -fx-font-size: 20px;
+    -fx-font-family: Inter;
+    -fx-font-weight: BOLD;
+}
+
+.submitButton-style:hover {
+    -fx-background-color: #8f6c0a;
+    -fx-cursor: hand;
+}
+
+.submitButton-style:pressed {
+    -fx-background-color: WHITE;
+    -fx-border-color: #d59f0f;
+    -fx-border-radius: 12;
+    -fx-text-fill: #d59f0f;
+}
+
+.label-budget {
+    -fx-font-size: 14px;
+}
+
+.text-field {
+    -fx-font-size: 14px;
+}
+
+.button {
+    -fx-font-size: 14px;
+    -fx-pref-width: 100px;
+    -fx-pref-height: 30px;
+}
+
+.combo-box {
+    -fx-font-size: 14px;
+}
+
