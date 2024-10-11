@@ -1,0 +1,1 @@
+Hello, this is my project for Year 1 Object Oriented Programming where I need to build a budget tracking application, i planned to use mySQL as the backend but our lecturer insist to just use txt files. Upgrade will be done soon if I'm feeling like it :)
